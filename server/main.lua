@@ -71,7 +71,7 @@ RegisterCommand("rcdwn", function(source)
     local source = source
     local user_id = vRP.getUserId(source)
 
-    if not vRP.hasPermission(user_id, "Admin") then return end
+    if not vRP.hasPermission(user_id, AdminPermission) then return end
     local coords = GetEntityCoords(GetPlayerPed(source))
     for i=1, #Robberys do
         local index = Robberys[i]
@@ -92,7 +92,7 @@ RegisterCommand("criarob", function(source)
     local source = source
     local user_id = vRP.getUserId(source)
 
-    if not vRP.hasPermission(user_id, "Admin") then return end
+    if not vRP.hasPermission(user_id, AdminPermission) then return end
     local coords = GetEntityCoords(GetPlayerPed(source))
 
     local name = vRP.prompt(source, 'Nome do roubo', '')
