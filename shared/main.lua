@@ -35,6 +35,8 @@ RobberysRules = {
 
 RobberysInfosKey = true
 
+AdminPermission = "admin.permissao"
+
 notifyPolice = function(source,name,coords) -- nao troque o nome
     -- coloque o evento do seu notify push
     TriggerClientEvent("NotifyPush",source,{ code = 31, title = "Roubo a(o) "..name, x = coords.x, y = coords.y, z = coords.z })
