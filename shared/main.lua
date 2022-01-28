@@ -35,7 +35,7 @@ RobberysRules = {
 
 RobberysInfosKey = true
 
-AdminPermission = "admin.permissao"
+AdminPermission = "Admin"
 
 notifyPolice = function(source,name,coords) -- nao troque o nome
     -- coloque o evento do seu notify push
