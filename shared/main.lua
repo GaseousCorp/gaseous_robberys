@@ -28,8 +28,8 @@ Robberys = {
 
 RobberysRules = {
     ammunation = {
-        polices = { 2, 3 }, -- min | max
-        thief = { 2 , 2 } -- min | max
+        polices = { 2, 3 }, -- MIN | MAX
+        thief = { 2 , 2 } -- MIN | MAX
     }
 }
 
