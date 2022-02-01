@@ -1,9 +1,9 @@
 Robberys = {
     {
         name = "Ammunation",
-        timer = 25,
+        timer = 25, -- Tempo em segundos (roubando)
         polices = -2,
-        cooldown = 50,
+        cooldown = 50, -- Tempo em minutos (cooldown)
         coords = vector3(23.74945, -1105.701, 29.7854),
         police_perm = "Police",
         -- item_require = { "lockpick", 5 },
