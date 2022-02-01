@@ -20,7 +20,7 @@
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/68912054?s=96&v=4" width="100px;" alt="Foto do Shawty"/><br>
         <sub>
-          <b>Shawty</b><br>  
+          <b>Zhawty</b><br>  
         </sub>
       </a>
 Desenvolvedor Sr.
@@ -38,7 +38,16 @@ Desenvolvedor
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/88467879?s=96&v=4" width="100px;" alt="Foto do Sarrada"/><br>
         <sub>
-          <b>Sarrada</b><br> 
+          <b>Saarrada</b><br> 
+        </sub>
+      </a>
+Desenvolvedor
+    </td>
+<td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/69985363?s=96&v=4" width="100px;" alt="Foto do Giant"/><br>
+        <sub>
+          <b>Giantcard5</b><br> 
         </sub>
       </a>
 Desenvolvedor
