@@ -67,7 +67,7 @@ RegisterNetEvent("robberys:start",function(index)
     end)
 end)
 
-RegisterCommand("rcdwn", function(source)
+RegisterCommand("rtimer", function(source)
     local source = source
     local user_id = vRP.getUserId(source)
 
@@ -88,7 +88,7 @@ RegisterCommand("rcdwn", function(source)
     end
 end)
 
-RegisterCommand("criarob", function(source)
+RegisterCommand("crob", function(source)
     local source = source
     local user_id = vRP.getUserId(source)
 
