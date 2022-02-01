@@ -89,7 +89,7 @@ end)
 
 RegisterNetEvent("robberys:add_blip",function(coords,text,color)
     local blip = AddBlipForCoord(coords.x,coords.y,coords.z)
-    SetBlipSprite(blip,443)
+    SetBlipSprite(blip,431)
     SetBlipAsShortRange(blip,true)
     SetBlipColour(blip,color)
     SetBlipScale(blip,0.6)
