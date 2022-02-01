@@ -1,0 +1,47 @@
+# gaseous_robberys
+> Sistema de roubos desenvolvido pela equipe Gaseous.
+
+> Conheça nossos trabalhos e inove seu servidor com a maior qualidade possível, acesse agora mesmo nosso [Servidor no Discord](https://discord.gg/ZD8gVAAJzt).
+
+## Recursos do Sistema
+* Multi config
+* /roubos informando quais roubos estão livres
+* Comando para remoção de cooldown
+* Comando para configuração rápida
+* Redução de eventos entre client e server
+* Redução de threads
+* Regras in-game configuraveis
+
+## Nossa Equipe
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/68912054?s=96&v=4" width="100px;" alt="Foto do Shawty"/><br>
+        <sub>
+          <b>Shawty</b><br>  
+        </sub>
+      </a>
+Desenvolvedor Sr.
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/42743208?s=96&v=4" width="100px;" alt="Foto do Luska"/><br>
+        <sub>
+          <b>Luska</b><br> 
+        </sub>
+      </a>
+Desenvolvedor
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/88467879?s=96&v=4" width="100px;" alt="Foto do Sarrada"/><br>
+        <sub>
+          <b>Sarrada</b><br> 
+        </sub>
+      </a>
+Desenvolvedor
+    </td>
+  </tr>
+</table>
