@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name "drugs"
-description "Drug system"
+name "robberys"
+description "Robbery system"
 author "Zhawty"
 version "1.0.0"
 
