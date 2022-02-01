@@ -10,7 +10,7 @@ RegisterNetEvent("robberys:start",function(index)
 
     if not Robbery[index] then Robbery[index] = {} end
     if not ((Robbery[index].cooldown or 0) == 0) then
-        notify(source, "importante", "O roubo ainda está em cooldown<br>Tempo restante: <b>"..Robbery[index].cooldown.."</b>")
+        notify(source, "importante", "O roubo ainda está em cooldown<br>Tempo restante: <b>"..Robbery[index].cooldown.." minutos.</b>")
         return
     end
 
