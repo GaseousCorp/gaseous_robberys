@@ -132,14 +132,14 @@ RegisterCommand("roubos", function(source)
     for i=1, #Robberys do
         local index = Robberys[i]
         local color = 69
-        local status = "Disponivel"
+        local status = "<FONT color='#00cc66'>Disponível"
         if Robbery[i] then
             if Robbery[i].cooldown >= 1 then
                 color = 49
-                status = "Indisponivel"
+                status = "<FONT color='#ff3300'>Indisponível"
             end
         end
-        TriggerClientEvent("robberys:add_blip", source, index.coords, index.name.." | "..status, color)
+        TriggerClientEvent("robberys:add_blip", source, index.coords, status.." <FONT color='#ffffff'>| "..index.name, color)
     end
 
     notify(source, "sucesso", "Os roubos foram marcados no mapa!")
