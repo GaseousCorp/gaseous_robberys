@@ -1,5 +1,5 @@
 # gaseous_robberys
-> Sistema de roubos desenvolvido pela equipe Gaseous.
+> Sistema de roubos desenvolvido pela equipe Gaseous. [(VIDEO SOBRE O SISTEMA)](https://youtu.be/zNKaVE91i7g)
 
 > Conheça nossos trabalhos e inove seu servidor com a maior qualidade possível, acesse agora mesmo nosso [Servidor no Discord](https://discord.gg/ZD8gVAAJzt).
 
